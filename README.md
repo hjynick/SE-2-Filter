@@ -29,6 +29,10 @@ von Vorarbeiten der letzten Semester
 
 ## Zeitplan:
 
-Die komplete Projektbeschreibung siehe hier:
+![zeitplan1](https://raw.githubusercontent.com/hjynick/SE-2-Filter/master/presentations/image/zeitplan1.JPG)
+![zeitplan2](https://raw.githubusercontent.com/hjynick/SE-2-Filter/master/presentations/image/zeitplan2.JPG)
 
 
+## Die komplete Projektbeschreibung siehe hier:
+
+[Projektbericht](https://github.com/hjynick/SE-2-Filter/blob/master/Projektbericht.pdf)
