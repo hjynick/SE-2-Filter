@@ -1,0 +1,124 @@
+<iccf version="1.2">
+    <windowplacement>2C0000000200000003000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9D050000B20000005D0900008A030000</windowplacement>
+    <toolbars>
+        <toolbar visible="1" reserved="212" />
+        <toolbar visible="1" reserved="215" />
+        <toolbar visible="0" reserved="205" />
+        <toolbar visible="0" reserved="203" />
+        <toolbar visible="0" reserved="209" />
+        <toolbar visible="0" reserved="208" />
+        <toolbar visible="0" reserved="210" />
+        <toolbar visible="0" reserved="211" />
+        <toolbar visible="0" reserved="213" />
+    </toolbars>
+    <devices>
+        <device name="DFx 31F03">
+            <unique>DFx 31F03 1003104D5E</unique>
+            <videoformat>UYVY (1024x768)</videoformat>
+            <fps>15.00</fps>
+            <fliph>0</fliph>
+            <flipv>0</flipv>
+            <rotation>0</rotation>
+            <denoise>2</denoise>
+            <vcdproperties>
+                <vcdpropertyitems>
+                    <item guid="{284C0E06-010B-45BF-8291-09D90A459B28}" name="Brightness">
+                        <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="0" />
+                        </element>
+                    </item>
+                    <item guid="{284C0E08-010B-45BF-8291-09D90A459B28}" name="Hue">
+                        <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="70" />
+                        </element>
+                    </item>
+                    <item guid="{284C0E09-010B-45BF-8291-09D90A459B28}" name="Saturation">
+                        <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="60" />
+                        </element>
+                    </item>
+                    <item guid="{284C0E0A-010B-45BF-8291-09D90A459B28}" name="Sharpness">
+                        <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="0" />
+                        </element>
+                    </item>
+                    <item guid="{284C0E0B-010B-45BF-8291-09D90A459B28}" name="Gamma">
+                        <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="2" />
+                        </element>
+                    </item>
+                    <item guid="{284C0E0D-010B-45BF-8291-09D90A459B28}" name="White Balance">
+                        <element guid="{B57D3001-0AC6-4819-A609-272A33140ACA}" name="Auto">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="0" />
+                        </element>
+                        <element guid="{6519038A-1AD8-4E91-9021-66D64090CC85}" name="White Balance Blue">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="95" />
+                        </element>
+                        <element guid="{6519038B-1AD8-4E91-9021-66D64090CC85}" name="White Balance Red">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="67" />
+                        </element>
+                    </item>
+                    <item guid="{284C0E0F-010B-45BF-8291-09D90A459B28}" name="Gain">
+                        <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="60" />
+                        </element>
+                        <element guid="{B57D3001-0AC6-4819-A609-272A33140ACA}" name="Auto">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="0" />
+                        </element>
+                    </item>
+                    <item guid="{90D5702E-E43B-4366-AAEB-7A7A10B448B4}" name="Exposure">
+                        <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="368" />
+                        </element>
+                        <element guid="{B57D3001-0AC6-4819-A609-272A33140ACA}" name="Auto">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="0" />
+                        </element>
+                        <element guid="{6519038C-1AD8-4E91-9021-66D64090CC85}" name="Auto Reference Parameter">
+                            <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="195" />
+                        </element>
+                    </item>
+                    <item guid="{2CED6FD6-AB4D-4C74-904C-D682E53B9CC5}" name="Partial scan offset" />
+                </vcdpropertyitems>
+            </vcdproperties>
+            <swzoom>100</swzoom>
+            <scrollx>0</scrollx>
+            <scrolly>0</scrolly>
+            <Extensions>
+                <Sequencer>
+                    <ImageSequenceFileType>0</ImageSequenceFileType>
+                    <JPGQuality>100</JPGQuality>
+                    <ImageSequenceHotkey>0</ImageSequenceHotkey>
+                    <SeqSnap>1</SeqSnap>
+                    <AutoInterval>20</AutoInterval>
+                    <FileNameGen>
+                        <directory>C:\Dokumente und Einstellungen\chlebek\Eigene Dateien\Eigene Bilder\</directory>
+                        <prefix>Image</prefix>
+                        <index>1</index>
+                        <useIndex>1</useIndex>
+                        <timeStampMode>0</timeStampMode>
+                        <useTimeStamp>0</useTimeStamp>
+                    </FileNameGen>
+                </Sequencer>
+                <Recorder>
+                    <mediastreamsink>
+                        <container guid="{A365C803-1CE7-4137-BA1E-5506CF286ADF}" name="AVI" />
+                        <codec name="DV Video Encoder">
+                            <codecdata>
+                                <Codec name="DV Video Encoder">
+                                    <param name="DV Video Encoder" type="data">300030003000300030003000300030003000300030002000D0070000D7070000DC070000</param>
+                                </Codec>
+                            </codecdata>
+                        </codec>
+                    </mediastreamsink>
+                    <autonaming>0</autonaming>
+                    <filename>C:\Dokumente und Einstellungen\chlebek\Eigene Dateien\Eigene Videos\video.avi</filename>
+                    <stopbytime>0</stopbytime>
+                    <stoptime>60</stoptime>
+                    <stopbyframes>0</stopbyframes>
+                    <stopframe>100</stopframe>
+                </Recorder>
+            </Extensions>
+            <windowplacement>2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000C0400001F030000</windowplacement>
+        </device>
+    </devices>
+</iccf>

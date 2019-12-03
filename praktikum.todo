@@ -1,0 +1,51 @@
+# Endpräsentation 9. Februar
+    
+
+# Positionsbestimmung nur x,y (US), theta (IMU)
+    Opimierung von Hand, nur lokal in Umgebung
+    Assoziation alte + neue US-Kollisionen, nicht nur Distanzen verwenden
+    
+    Gaussian Fitting mit Gewichten
+    SE2BinghamDistribution.fit mit Gewichten selber schreiben
+    
+# TODO
+    // getRotation in SimCrawler (+NOISE)
+    
+    
+# Fragen
+    Position für Vergleichsalgorithmen? Kalman-Filter+ 
+    Wie viele Seiten pro Person? 5+
+    
+# Ausarbeitung
+    @Martin Einleitung
+        Aufgabenstellung
+        
+    @Jingyu Projektplan
+    @Jingyu Kalman-Filter
+    @Jingyu Grundlagen des SE2
+    @Jinyu Crawler
+    
+    @Martin Quaternionen (dual)
+    
+    @MartinSimulation
+    @Martin Positionsbestimmung
+    @Martin Messung Crawlerposition
+    @Martin Evaluierung
+    
+    @Martin Ergebnisse
+    @Martin Zusammenfassung
+    @Martin Ausblick, Zukunft
+    
+# Code
+    testen Rotation aus Kamerabild bestimmen
+    Vergleichsalgorithmus in Siumulation 
+        @Jingyu Kalman-Filter (ohne Position?)
+    @Martin Error-Plot
+
+Difference SO(3) **S**_3
+
+SO(3)   3d-rotations               3dim
+SE(3)   3d rigid transformations   6dim
+S^2     Sphere in 3d               2dim
+
+
